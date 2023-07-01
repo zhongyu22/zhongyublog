@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhongyu22.github.io/zhongyublog/posts/mypost/</loc>
-    <lastmod>2023-07-01T22:58:20+10:00</lastmod>
+    <loc>https://zhongyu22.github.io/zhongyublog/posts/2rd/</loc>
+    <lastmod>2023-07-01T23:51:29+10:00</lastmod>
   </url><url>
     <loc>https://zhongyu22.github.io/zhongyublog/posts/</loc>
-    <lastmod>2023-07-01T22:58:20+10:00</lastmod>
+    <lastmod>2023-07-01T23:51:29+10:00</lastmod>
   </url><url>
     <loc>https://zhongyu22.github.io/zhongyublog/</loc>
+    <lastmod>2023-07-01T23:51:29+10:00</lastmod>
+  </url><url>
+    <loc>https://zhongyu22.github.io/zhongyublog/posts/mypost/</loc>
     <lastmod>2023-07-01T22:58:20+10:00</lastmod>
   </url><url>
     <loc>https://zhongyu22.github.io/zhongyublog/categories/</loc>
