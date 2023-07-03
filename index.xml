@@ -6,7 +6,17 @@
     <description>Recent content on Zhongyu blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2023 00:04:50 +1000</lastBuildDate><atom:link href="https://zhongyu22.github.io/zhongyublog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 14:34:59 +1000</lastBuildDate><atom:link href="https://zhongyu22.github.io/zhongyublog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Question_mark</title>
+      <link>https://zhongyu22.github.io/zhongyublog/posts/question_mark/</link>
+      <pubDate>Mon, 03 Jul 2023 14:34:59 +1000</pubDate>
+      
+      <guid>https://zhongyu22.github.io/zhongyublog/posts/question_mark/</guid>
+      <description>Question mark usage when access to an object&amp;rsquo;s property Sometimes when try to access a particular property in an object but we are not sure whether the object has the property. Under this circumstance, we can use question mark to avoid errors. Let&amp;rsquo;s say an object person:
+const person = { name: &amp;#34;David&amp;#34;, age: 30, gender: &amp;#34;Male&amp;#34; }; But what happens if we try to access a &amp;ldquo;hasGirlfriend&amp;rdquo; attribute in this object?</description>
+    </item>
+    
     <item>
       <title>Yifan</title>
       <link>https://zhongyu22.github.io/zhongyublog/posts/yifan/</link>
